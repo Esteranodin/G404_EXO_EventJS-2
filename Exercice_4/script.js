@@ -21,3 +21,4 @@ function handleCompare(){
   };
 }
 
+// possible de faire une variable booléenne ou dedans on met la compraison du if et on stocke me résultat qui pourra être réutiliser dans une autre fonctionqui change couleur bordures

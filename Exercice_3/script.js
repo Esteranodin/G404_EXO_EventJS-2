@@ -21,3 +21,4 @@ function handleColorBlue() {
     text.classList.remove('textred', 'textgreen');
     text.classList.add('textblue');
 };
+

@@ -13,3 +13,4 @@ function handleDisplay() {
     text.style.display = 'block';
 };
 
+// bonne pratique est de mettre la constante qui selectionne le texte et la declarer que dans la focntion qui l'utilise car si un utilisateur n'en a pas besoin le code ne se déclenche pas
